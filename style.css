@@ -1,0 +1,95 @@
+
+
+body {
+    font-family: Arial;
+    
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    font-family: Arial;
+}
+
+a:hover {
+    color: rgb(218, 0, 0);
+    
+}
+
+img {
+    width: 700px;
+}
+
+/* global div */
+div, .titolo {
+    position: absolute;
+    z-index: 1;
+}
+
+.mitocondrio {
+    top: 587px;
+    left: 300px;
+}
+
+.cloroplasto {
+    top: 160px;
+    left: 500px;
+}
+
+.nucleoooooo {
+    top: 220px;
+    left: 90px;
+}
+
+.nucleoloeee {
+    top: 270px;
+    left: 50px;
+}
+
+.Leribosomia {
+    top: 70px;
+    left: 330px;
+}
+
+.IlreticoloE {
+    top: 460px;
+    left: 70px;
+}
+
+.apparatoGol {
+    top: 50px;
+    left: 440px;
+}
+
+.lisciokleon {
+    top: 80px;
+    left: 240px;
+}
+
+.titolo {
+    font-size: 80px;
+    left: 740px;
+    top: 200px;
+    font-weight: bolder;
+    
+}
+
+.lalovacuolo {
+    top: 230px;
+    left: 595px;
+}
+
+.lcitoplasma {
+    top: 405px;
+    left: 615px;
+}
+
+.membranacel {
+    top: 570px;
+    left: 500px;
+}
+
+.paretecelul {
+    top: 447px;
+    left: 578px;
+}
